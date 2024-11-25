@@ -20,5 +20,5 @@ def read_and_write_files():
     except Exception as e:
         print(f"An unexpected error occurred: {e}")
 
-# Run the function
+
 read_and_write_files()
